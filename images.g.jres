@@ -39,6 +39,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "redButtonPush"
     },
+    "image9": {
+        "data": "hwQgACAAAAAi//////////////////8iIiIiIiIiIiIiIiIiIiIiIi8iAAAAAADAzIyIZvb/IvIvIgIAAICIyLu7zMxsJiLyLyAiAICIiIjMu8vMzCLy8i8AIgKIZmZmyLy7zCwi9vIvACAieGZmZobMu8wiwszyLwAAImJmZndmyLsrIszM8i8AACgiZnaHaMi8IsLMzPIvAAB4ImJ3iGiGLCLMzMzyLwCAeCYih4hmhiKyzMzM8i8AgGdmIoJoZiYi3czMzPIvAIBndiciaGYiwt3MzMzyLwCAZ3aIInImIszdvLu78i8AgGeHiCYiIoLM3by7u/IvAIBnh3iHIiKGzN28u7vyLwCAZ4d4hyIihszdu7u78i8AgGeHiCYiIoLM3bu7u/IvAIBndogiciYizN27u7vyLwCAZ3YpImhmIsLdu7u78i8AgGdmIoJoZiYi3bu7u/IvAIB4JiKHiGaGItK7u7vyLwAAeCJid4hohiwiu7u78i8AACgiZnaHaMgcIrK7u/IvAAAiYmZmd2bIGyEi3d3yLwAgInhmZmaGzN29ItK98i8AIgKIZ2ZmyLzdvSsi+/IvICIAgIiIiMzb3czMIvLyLyICAACAiMi73cvMzCwi8i8iAAAAAADAzMzMzPz/IvIiIiIiIiIiIiIiIiIiIiIiIv//////////////////Ig==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "NoPress"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
